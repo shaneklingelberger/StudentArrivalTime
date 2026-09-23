@@ -1,2 +1,1 @@
-"# QueerEar" 
-"# StudentArrivalTime" 
+# StudentArrivalTime
